@@ -1,0 +1,649 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Popish plots and treasons from the beginning of the reign of Queen Elizabeth. / Illustrated with emblems and explain'd in verse. ; first are describ'd the cursed plots they laid. And on the side their wretched ends display'd.</title>
+            <author>G. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676-1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79322</idno>
+            <idno type="STC">Wing C33A</idno>
+            <idno type="STC">ESTC R175634</idno>
+            <idno type="EEBO-CITATION">45097588</idno>
+            <idno type="OCLC">ocm 45097588</idno>
+            <idno type="VID">171200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79322)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171200)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2567:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Popish plots and treasons from the beginning of the reign of Queen Elizabeth. / Illustrated with emblems and explain'd in verse. ; first are describ'd the cursed plots they laid. And on the side their wretched ends display'd.</title>
+                  <author>G. C.</author>
+                  <author>Danckertsz., Corn.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Sold by John Garret at his shop, at the Exchange-Staires in Cornhill ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1676-1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A thankfvll remembrance of Gods mercie by G.C."</note>
+                  <note>"Corn. Danckertsz. Sculp."</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+                  <note>Imperfect: cropped with some loss of text.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Anti-Catholicism.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="broadsheet">
+            <pb facs="tcp:171200:1" rendition="simple:additions"/>
+            <head>POPISH PLOTS AND TREASONS <hi>From the beginning of the Reign of Queen</hi> Elizabeth. <hi>Illustrated with Emblems and explain'd in Verſe.</hi>
+            </head>
+            <l>Firſt are deſcrib'd the Curſed plots they laid.</l>
+            <l>And on the ſide their wretched ends diſ<g ref="char:EOLhyphen"/>play'd.</l>
+            <div type="illustration">
+               <p>
+                  <figure>
+                     <figDesc>depiction of a papal bull, with a medal featuring two fishermen in a boat pulling in their nets, into which are integrated the first two emblems below</figDesc>
+                     <head>The Popes bull.</head>
+                     <p>IN NOMINE DOMINI incipit Omne Malum</p>
+                  </figure>
+               </p>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a triumphal pillar, into which are integrated the remaining emblems below, and in front of which stands a personification of the true church, crowned with a church and standing on top of a devil or demon in papal regalia</figDesc>
+                     <head>A THANKFVLL REMEMBRANCE OF GODS MERCIE by G.C..</head>
+                     <p>Sanctvs est Dominvs In operIbvs svis</p>
+                     <p>Ecclesia Vera</p>
+                     <p>Malignant Church</p>
+                     <byline>Tui Inven: Corn. Danckertſz. ſculp</byline>
+                     <p>Are to be ſold by Iohn Garrett at the Royall Exchang in Cornhill</p>
+                  </figure>
+               </p>
+               <div n="1" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of two armed soldiers (Thomas Percy, earl of Northumberland, and Charles Neville, earl of Westmorland) kneeling to receive a blessing from a seated catholic priest; in the background another group of soldiers kneel as Pope Pius V is carried on the shoulders of more soldiers; in the distance a mass of soldiers</figDesc>
+                        <head>The Rebellion of Northu: &amp; Westm:</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of Thomas Percy, earl of Northumberland, kneeling blindfolded with arms bound behind at an execution block, while the executioner stands over him with axe raised; in the background soldiers flee in all directions</figDesc>
+                        <head>Exurgit Deus diſsi pantur Inimici</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 1. </head>
+                     <l>THe <hi>Pope</hi> aloft on Armed Shoulders Rides,</l>
+                     <l>And in vain Hopes the Engliſh ſpoils divides;</l>
+                     <l>His <hi>Leaden Bull</hi> 'gainſt good <hi>Eliza.</hi> roares,</l>
+                     <l>And ſcatters dire Rebellion round our Shoars.</l>
+                     <l>The Prieſt <hi>Bleſſes</hi> the Villians, Chears them on,</l>
+                     <l>And promiſes Heav'ns Crown, when her Crown's won.</l>
+                     <l>But God doth blaſt their Troops, their Counſels mock</l>
+                     <l>And brings bold Traitors to'th' deſerved <hi>Block.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="2" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of Don John of Austria receiving a blessing from Pope Gregory XIII</figDesc>
+                        <head>The treacherous practise of Don Jo: of Aust:</head>
+                        <p>Perpe<g ref="char:EOLhyphen"/>tuall Peace</p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of Don John of Austria lying in a sickbed inside a tent</figDesc>
+                        <head>Mors peccatorum pessima</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 2. </head>
+                     <l>
+                        <hi>Don John,</hi> who under Spain did with proud Hand</l>
+                     <l>The then unſever'd <hi>Neitherlands</hi> Command,</l>
+                     <l>Contrives for Englands Conqueſt, and does Hope</l>
+                     <l>To Gain it by Donation from the Pope.</l>
+                     <l>Yet to Amuſe our Queen does ſtill pretend</l>
+                     <l>
+                        <hi>Perpetual peace,</hi> and needs will ſeem a friend;</l>
+                     <l>But Heav'n looks through thoſe Juggles and in's prime,</l>
+                     <l>Grief Cuts off Him and's Hopes All at a time.</l>
+                  </lg>
+               </div>
+               <div n="3" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of Thomas Stukeley or Stukley kneeling to receive a blessing from a seated Pope Gregory XIII, while Philip II of Spain stands alongside</figDesc>
+                        <head>Stucely encouraged by P: &amp; K: of Sp: rayseth rebell:</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of Thomas Stukeley or Stukley lying dead on the battlefield; in the background a battle</figDesc>
+                        <head>Sic Magnis excidit ausis</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 3. </head>
+                     <l>Spains <hi>King,</hi> and <hi>Romes</hi> Triple-Crown'd Pelate Joyn,</l>
+                     <l>And with them both bold <hi>Stukely</hi> does Combine</l>
+                     <l>
+                        <hi>Ireland</hi> to conquer, And the Pope has ſent,</l>
+                     <l>For that Bleſt work, an <hi>Holy Regiment;</hi>
+                     </l>
+                     <l>But in their way at <hi>Barbary</hi> they call,</l>
+                     <l>Where at one Blow the <hi>Moors</hi> deſtroy them All.</l>
+                     <l>See here, what ſuch Ambitious Traitors Gain,</l>
+                     <l>The ſhame of Chriſtians is by <hi>Pagans</hi> Slain.</l>
+                  </lg>
+               </div>
+               <div n="4" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of two men (Sir John Fitzgerald and Gerald fitz James Fitzgerald) killing a man in bed in a tent, while a priest gives his blessing</figDesc>
+                        <head>Deſmonds bloody practise approued</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of Sir John Fitzgerald lying face-down on the ground, while a soldier holds a spear to his neck; in the background a priest runs toward the woods</figDesc>
+                        <head>Sanguinary non dimidiabunt dies suos</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 4. </head>
+                     <l>The Prieſts, with <hi>Croſſes</hi> Enſigne-like diſplaid,</l>
+                     <l>Prompt bloody <hi>Deſmond</hi> to thoſe ſpoiles he made</l>
+                     <l>On Iriſh Proteſtants, and from afar</l>
+                     <l>Blow Triumphs to Rebellions Holy War;</l>
+                     <l>But againſt Providence all Arts are vain,</l>
+                     <l>The Crafty, in their Craft are over-tane;</l>
+                     <l>Behold where <hi>kill'd</hi> the Stubborn <hi>Traitor</hi> lies,</l>
+                     <l>Whilſt to the <hi>Woods</hi> his <hi>Ghoſtly Father</hi> flies;</l>
+                  </lg>
+               </div>
+               <div n="5" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of a priest handing a papal bull to another priest outside a monastery</figDesc>
+                        <head>Rebellion the effect of Monaſtaries</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of a priest hanging from a gallows</figDesc>
+                        <head>Raro antecedentem sceleſtum</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 5. </head>
+                     <l>What truſty Janizaries are Monks to <hi>Rome,</hi>
+                     </l>
+                     <l>From their dark Cells the blackeſt Treaſons come.</l>
+                     <l>By the Popes Licenſe horrid Crimes they Act,</l>
+                     <l>And Guild with piety each Treacherous Fact.</l>
+                     <l>A ſeminary Prieſt, like Comets Blaze,</l>
+                     <l>Doth always Blood-ſhed and Rebellion Raiſe;</l>
+                     <l>But ſtill the fatal Gibbet's ready fixt</l>
+                     <l>For ſuch, where Treaſon's with Religion mixt.</l>
+                  </lg>
+               </div>
+               <div n="6" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of Queen Elizabeth I seated on a throne while outside her window three men have their swords drawn</figDesc>
+                        <head>Someruiles hast to Kill the Queene.</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of John Somerville in chains in a prison cell, strangling himself</figDesc>
+                        <head>Qualis vita finis Ita</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 6. </head>
+                     <l>Mad <hi>Sommervil,</hi> by Cruel Prieſts inſpir'd</l>
+                     <l>To do whatever miſchiefe they requir'd,</l>
+                     <l>Swears that he inſtantly will be the death</l>
+                     <l>Of good and Gracious Queen <hi>Elizabeth.</hi>
+                     </l>
+                     <l>Aſſaults her Guards, but Heav'ns protecting pow'r</l>
+                     <l>Defeats his rage makes him a Priſoner:</l>
+                     <l>Where to avoid a juſt, though ſhameful Death,</l>
+                     <l>Self-ſtrangling hands do Stop his loathſome breath.</l>
+                  </lg>
+               </div>
+               <div n="7" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of Bernardino de Mendoza standing on a beach holding sensitive documents; in the background he is being escorted to a boat by two men, with ships in the distance</figDesc>
+                        <head>The Spa: Embas: thrust out of England</head>
+                        <p>Popiſh noblemen</p>
+                        <p>Englands hauens</p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of Francis Throckmorton being hung from a gallows by another man</figDesc>
+                        <head>Reginam ꝓtegit Deus</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 7. </head>
+                     <l>Whilſt <hi>Spains</hi> Embaſſador here Leiger lies,</l>
+                     <l>Deſigns are laid the Engliſh to ſurprize;</l>
+                     <l>Two Catalogues his Secretary had Got</l>
+                     <l>The better two effect the Helliſh Plot.</l>
+                     <l>One all our Havens Names, where Foes might Land,</l>
+                     <l>To'ther what Papiſts were to lend an hand.</l>
+                     <l>For this baſe Trick he's forc'd to pack to <hi>Spain</hi>
+                     </l>
+                     <l>Whilſt Tyburn greets confederates that remain.</l>
+                  </lg>
+               </div>
+               <div n="8" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of a ship or galleon with papers being blown through the air</figDesc>
+                        <head>Torne Papers blowne into the Ship</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of a priest seated at a table with torn pieces of paper</figDesc>
+                        <head>Non eſt consilium contra Dominuum</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 8. </head>
+                     <l>View here a Miracle—A Prieſt Conveys,</l>
+                     <l>In Spaniſh Bottom o're the path-leſs Seas,</l>
+                     <l>Cloſe treacherous Notes, whilſt a Dutch Ship comes by</l>
+                     <l>And ſtreight Engag'd her well-known Enemy:</l>
+                     <l>The Conſcious Prieſt his Guilty Papers tears,</l>
+                     <l>And over-board the ſcatter'd fragments bears;</l>
+                     <l>But the juſt winds do force them back o'th' Decks,</l>
+                     <l>And peice-meal all the lurking plot detects.</l>
+                  </lg>
+               </div>
+               <div n="9" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of William Parry standing behind Queen Elizabeth I holding a dagger in one hand with a cloak hung over the other arm</figDesc>
+                        <head>Parry not able to Kill the Queene</head>
+                        <p>Popes abſolution</p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of William Parry hanging from a gallows</figDesc>
+                        <head>Deus Vindex</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 9. </head>
+                     <l>The Jeſuites vile Doctrines do Convince</l>
+                     <l>
+                        <hi>Parry,</hi> 'Tis Merit for to kill his Prince,</l>
+                     <l>The fatal Dagger he prepares with Art,</l>
+                     <l>And means to ſheath it in her Royal Heart.</l>
+                     <l>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> he Attemps, and is as oft put by,</l>
+                     <l>By the Majeſtick Terrors of her Eye;</l>
+                     <l>At laſt his Curſed Intentions he Confeſt</l>
+                     <l>And So his welcom'd a ſit Tvburn Gueſt;</l>
+                  </lg>
+               </div>
+               <div n="10" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of Anthony Babington and eight other men</figDesc>
+                        <head>Babington with his Complices</head>
+                        <p>Hi mihi ſunt Comites quos ipsa pericula ducunt</p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag, on which is a representation of one man being hanged from a gallows, another on a table being quartered with an axe, while five more stand bound in the background</figDesc>
+                        <head>In qua quis peccat In eo punitur</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 10. </head>
+                     <l>Here <hi>Babington</hi> and all his deſperate Band,</l>
+                     <l>Ready prepar'd for Royal Murder ſtand,</l>
+                     <l>His Motto ſeems to glory in the Deed,</l>
+                     <l>Theſe my Companions are whom dangers lead.</l>
+                     <l>Cowardly Traitors, ſo many Combine</l>
+                     <l>To Cut off one poor Ladies vital Twine;</l>
+                     <l>In vain,—Heaven's her Guard, and as for you;</l>
+                     <l>Behold, the Hangman gives you all your due.</l>
+                  </lg>
+               </div>
+               <div n="11" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of William Stafford and eight other men including a priest gathered around a table studying documents</figDesc>
+                        <head>Stafford Clearing himſelfe</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of the French ambassador Chateauneuf boarding a boat, with ships in the distance</figDesc>
+                        <head>Malum Conſillium conſultori peſsimu<g ref="char:cmbAbbrStroke">̄</g>
+                        </head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 11. </head>
+                     <l>Nor was't with <hi>Spain</hi> alone, Great <hi>Betty</hi>'s Strife;</l>
+                     <l>Now <hi>France</hi> attempts upon her pretious Life;</l>
+                     <l>The Guiſes cauſe th' Ambaſſador to Bribe</l>
+                     <l>
+                        <hi>Moody,</hi> and others, of the Roman Tribe,</l>
+                     <l>To Cut her off. To which they ſoon Conſent,</l>
+                     <l>But watchful Heav'n does that Guilt prevent.</l>
+                     <l>
+                        <hi>Stafford</hi> doth <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> the Councel All diſcloſe,</l>
+                     <l>And Home w<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> ſhame perfidious <hi>Mounſieur</hi> goes.</l>
+                  </lg>
+               </div>
+               <div n="12" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of the Spanish Armada, or fleet of ships, in crescent formation passing along the English Channel between Calais in France and Tilbury in England, where ranks of armed soldiers await; an English ship, blown by a wind from heaven, is directed into the heart of the crescent</figDesc>
+                        <head>the Inuincible Armado</head>
+                        <p>I blow and ſcatter</p>
+                        <p>Calis</p>
+                        <p>Tilbury</p>
+                        <p>88</p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of Noah's Ark</figDesc>
+                        <head>Dextra Dei fecit Salutem</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 12. </head>
+                     <l>
+                        <hi>Spain's</hi> proud <hi>Armado,</hi> whom the Pope did Bleſs,</l>
+                     <l>Attacques our Iſle, Confident of ſucceſs.</l>
+                     <l>But Heav'ns juſt Blaſt doth Scatter all their force,</l>
+                     <l>They fly and quite round <hi>Scotland</hi> take their Courſe:</l>
+                     <l>So many taken, burnt, and Sunk i'th' Main,</l>
+                     <l>Scarce one in Ten did e're get home Again;</l>
+                     <l>Thus <hi>England</hi> like <hi>Noahs</hi> Ark, amidſt the Waves</l>
+                     <l>Indulgent providence from Danger ſaves.</l>
+                  </lg>
+               </div>
+               <div n="13" type="emblem">
+                  <pb facs="tcp:171200:2" rendition="simple:additions"/>
+                  <p>
+                     <figure>
+                        <figDesc>depiction of Rodrigo Lopez conversing with a priest or cardinal</figDesc>
+                        <p>Quid dabitis</p>
+                        <head>Lopas compounding to poyson the Queene</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of Rodrigo Lopez hanging from a gibbet outside a door</figDesc>
+                        <head>Proditorum finis funis</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 13. </head>
+                     <l>But now a private horrid Treaſon view</l>
+                     <l>Hatcht by the Pope, the Devil, and a Jew;</l>
+                     <l>
+                        <hi>Lopez</hi> a Doctor muſt by Poiſon do</l>
+                     <l>What all their Plots have fail'd in hitherto:</l>
+                     <l>
+                        <hi>What will you give me then,</hi> the <hi>Judas</hi> Cries;</l>
+                     <l>Full <hi>fifty thouſand Crowns,</hi> t' other replies.</l>
+                     <l>Tis done—but hold, the wretch ſhall miſs his hope,</l>
+                     <l>The Treaſons known, and his Reward's the Rope.</l>
+                  </lg>
+               </div>
+               <div n="14" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of Hugh O'Neill kneeling in submission before Charles Blount, Baron Mountjoy, at his tent; in the background are ranks of armed soldiers</figDesc>
+                        <head>Tyrones false Submiſsion afterwards rebelling</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag with the cross of Saint George in one corner, on which is a representation of Hugh O'Neill running away with a scourge whip in his hand</figDesc>
+                        <head>Conscientia mille testes</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 14. </head>
+                     <l>The Great <hi>Tyrone</hi> that did ſo oft embrew</l>
+                     <l>
+                        <hi>Ireland</hi> with Blood, and Popiſh Plots Renew:</l>
+                     <l>Here vanquiſht Swears, upon his bended Knee,</l>
+                     <l>To the Queens Deputy fidelity.</l>
+                     <l>Yet breaks that vow, and loaded with the Guilt</l>
+                     <l>Of perjuries and Blood which he had ſpilt.</l>
+                     <l>Being forc'd at laſt to fly his Native Land,</l>
+                     <l>Carries in's Breaſt a ſting, a Scourge in's <hi>hand</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div n="15" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of William Watson standing giving a blessing to ten kneeling men</figDesc>
+                        <head>Watson Seducing Noblemen</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag, on which is a representation of a man kneeling at the execution block, with the executioner poised with his axe raised, as a third man inserts a letter of pardon between them; in the background kneel four other men</figDesc>
+                        <head>Vide Clementiam Regis</head>
+                        <p>Pardon</p>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 15. </head>
+                     <l>No Sooner <hi>James</hi> had bleſt the Engliſh Throne,</l>
+                     <l>But Traiterous Prieſts Conſpire to pull him down.</l>
+                     <l>
+                        <hi>Watſon</hi> the poiſonous Maximes does Inſtill,</l>
+                     <l>And draws ſome Nobles to Join in the Ill:</l>
+                     <l>But Princes then appear the moſt divine,</l>
+                     <l>When they with unexpected Mercy Shine.</l>
+                     <l>Juſt as the Fatal Ax attempts the Stroke,</l>
+                     <l>Pardon ſteps in and does the Blow Revoke.</l>
+                  </lg>
+               </div>
+               <div n="16" type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of Guy Fawkes standing outside Parliament with a covered lantern, but seen by the eye of heaven in a cloud</figDesc>
+                        <head>The Powder Plot</head>
+                        <p>I ſee and ſmile</p>
+                        <p>Novemb y<hi rend="sup">e</hi> 5<hi rend="sup">th</hi>
+                        </p>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <figDesc>a flag, on which is a representation of a bush or tree on fire</figDesc>
+                        <head>Digitus Dei hic</head>
+                        <p>per ignem</p>
+                     </figure>
+                  </p>
+                  <lg>
+                     <head>
+                        <hi>Figure</hi> 16. </head>
+                     <l>In this Curs'd Powder-plot we plainly ſee</l>
+                     <l>The Quinteſſence of Romiſh Cruelty.</l>
+                     <l>King Lords and Commons at one Helliſh Blaſt</l>
+                     <l>Had been deſtroy'd, and half our Land laid waſt,</l>
+                     <l>See <hi>Faux,</hi> with his dark Lanthorn, ready ſtands</l>
+                     <l>To Light the fatal Train with deſperate hands,</l>
+                     <l>But Heavens All-ſeeing eye defeats their deſire,</l>
+                     <l>And ſaves us as a Brand ſnatcht from the fire;</l>
+                  </lg>
+               </div>
+               <div type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of two hands holding up a heart to heaven over a table or altar</figDesc>
+                        <head>Deo Liberatori</head>
+                        <p>QVIS SICUT TV DOMINE IN FORTIBVS</p>
+                        <p>Lift up harts and hands and praiſe y<hi rend="sup">e</hi>. Lord</p>
+                     </figure>
+                  </p>
+                  <lg>
+                     <l>And now let us, with chearful Hymns of praiſe,</l>
+                     <l>And Hearts inflam'd with love <hi>an Altar</hi> raiſe</l>
+                     <l>Of Gratitude to God, who doth advance</l>
+                     <l>His out-ſtreatcht Arm in our Deliverance,</l>
+                     <l>Tis only He, that doth protect his Sheep,</l>
+                     <l>Tis he alone doth this poor Iſland keep</l>
+                     <l>From Romiſh <hi>Wolves,</hi> which would us ſoon devour,</l>
+                     <l>If not Defended by his mighty power.</l>
+                     <l>Tis he that doth our <hi>Church</hi> with freedome Crown,</l>
+                     <l>And beats the Popiſh <hi>Superſtitions</hi> down.</l>
+                     <l>Under her <hi>feet,</hi> and may they never riſe,</l>
+                     <l>Nor in vile <hi>Darkneſs</hi> Reinvolve our Eyes;</l>
+                     <l>Since Heaven whoſe mercies ever are moſt tender</l>
+                     <l>Hath both reſtor'd our <hi>Faith,</hi> and Faiths <hi>Defender.</hi>
+                     </l>
+                  </lg>
+               </div>
+               <div type="emblem">
+                  <p>
+                     <figure>
+                        <figDesc>depiction of a ship approaching a shore with people on board and on land celebrating</figDesc>
+                        <head>Deo Reduci</head>
+                     </figure>
+                  </p>
+                  <lg>
+                     <l>Let us to both a ſtrict Adherence pay,</l>
+                     <l>And for their <hi>preſervation</hi> ever pray.</l>
+                     <l>Since thus <hi>Truths</hi> happy <hi>Bark</hi> hath reach'd our ſhore</l>
+                     <l>O may it <hi>never, never</hi> Leaves us more.</l>
+                  </lg>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Sold by <hi>John Garret</hi> at his Shop, at the <hi>Exchange-Staires</hi> in <hi>Cornhill;</hi> where you may have choice of all Sorts of Large and Small Maps, Draw<g ref="char:EOLhyphen"/>ing Books, Coppy books, and Pictures for Gen<g ref="char:EOLhyphen"/>tlewomens works; and alſo very good origi<g ref="char:EOLhyphen"/>nals of French and Dutch Prints.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
